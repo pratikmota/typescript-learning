@@ -3,6 +3,7 @@
     "3"+5 = 35
 */
 function add1(num1, num2){
+    console.log(typeof num1)
     return num1+num2
 }
 var result1 = add1('3',5)
