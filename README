@@ -1,0 +1,21 @@
+VS-CODE Pluggins:
+ES Lint
+Material Icon Theme
+Path Intellisense -> better for import
+Prettier - Code formator
+
+=======
+tsc app.ts --> it will generate app.js javascript file
+
+=======
+npm init --> It will create Package.json file
+=== ==
+Create node_modules
+npm install --save-dev lite-server
+Then in your script add:
+"start": "lite-server"
+
+- lite-server is simple development server. It looks index.htm near to package.json
+  ==
+  npm start
+  It will run local host - http://localhost:3000/
